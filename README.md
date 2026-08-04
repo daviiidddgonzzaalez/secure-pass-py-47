@@ -1,2 +1,4 @@
-# secure-pass-py-47
+# Secure Pass Py 47
+
 Generate secure passwords using Python random module.
+
